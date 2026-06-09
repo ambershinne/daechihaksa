@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.xn--vf4b319a.com/sitemap.xml
